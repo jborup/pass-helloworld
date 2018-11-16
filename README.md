@@ -27,3 +27,11 @@ This is a across the various PaaS's test for a simple application
 
 2. .gitignore to ensure some files was not included into github
 
+3. create repos link
+git init
+git add README.md
+git add .gitignore
+git commit -m "first commit"
+git remote add origin https://github.com/jborup/pass-helloworld.git
+git push -u origin master
+
