@@ -6,8 +6,6 @@ This is a across the various PaaS's test for a simple application
 
 `npm install`
 
-`npm run build`
-
 `npm start`
 
 # Google
@@ -36,4 +34,5 @@ git remote add origin https://github.com/jborup/pass-helloworld.git
 git push -u origin master
 
 4. npm init # creates package.json
+5. npm install --save express
 
