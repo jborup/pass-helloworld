@@ -1,0 +1,23 @@
+{
+  "name": "paas-helloworld",
+  "version": "1.0.0",
+  "description": "A test to run PaaS on all common cloud providers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jborup/pass-helloworld.git"
+  },
+  "keywords": [
+    "PaaS-test",
+    "nodejs"
+  ],
+  "author": "jborup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jborup/pass-helloworld/issues"
+  },
+  "homepage": "https://github.com/jborup/pass-helloworld#readme"
+}

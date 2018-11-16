@@ -35,3 +35,5 @@ git commit -m "first commit"
 git remote add origin https://github.com/jborup/pass-helloworld.git
 git push -u origin master
 
+4. npm init # creates package.json
+
